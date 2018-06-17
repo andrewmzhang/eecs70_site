@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# CS70 Resources - Andy Zhang
-
 ## Feedback
 
 Feedback is anonymous.
