@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Andy's EECS70 page, Summer 2018
 ---
-
-# CS70 Resources - Andy Zhang
 
 ## Feedback
 
