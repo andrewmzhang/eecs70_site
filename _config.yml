@@ -18,7 +18,7 @@ email: andrewmzhang@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Resources for Andy's section of CS70, Summer 2018.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "eecs70.andrewmzhang.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  andrewmzhang
 
 # Build settings
