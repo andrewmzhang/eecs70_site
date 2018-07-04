@@ -12,4 +12,3 @@ Feedback is anonymous.
 
 [Feedback Form](https://goo.gl/forms/9Wp44hzwz2Z8V7DI2)
 
-## Discussion Notes
